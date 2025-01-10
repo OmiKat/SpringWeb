@@ -6,7 +6,7 @@
     </head>
     </body>
         <body style="background-color:black;">
-        <h2>Shrimple Calculator</h2>
+        <h2>Shrimple</h2>
 
          <form action="addAline">
                 <label for="aid">Enter ID :</label>
